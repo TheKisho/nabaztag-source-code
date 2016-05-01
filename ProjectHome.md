@@ -1,0 +1,1 @@
+Nabaztag V1 & V2 source code, embedded and platform code -
